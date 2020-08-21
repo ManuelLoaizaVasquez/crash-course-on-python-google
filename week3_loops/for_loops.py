@@ -48,7 +48,7 @@ for home_team in teams:
       print(home_team + " vs " + away_team)
 
 for x in range(1, 11):
-  print(x**3)
+  print(x ** 3)
 
 for x in range (0, 101):
   result = x * 7
